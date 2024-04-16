@@ -63,3 +63,13 @@ let strArr = ["amit", "sumit", "anil"];
 strArr.splice(1, 1, "Geeks", "Geeks1", "Geeks2");
 
 console.log(strArr);
+
+console.log("Testing assignment question")
+const test1 = [1,2,3];
+console.log(test1);
+
+const test2 = new Array(10,20,30);
+console.log(test2);
+
+const test3 = Array(100,200,300);
+console.log(test3);
